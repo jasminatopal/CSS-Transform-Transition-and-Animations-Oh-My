@@ -2,6 +2,7 @@
 
 body  {
   font-family: 'Josefin Sans', sans-serif;
+  
 }
 main {
   background-color: mediumaquamarine;
@@ -17,3 +18,5 @@ main > div {
   margin: auto;
   padding: 10%;
 }
+
+
